@@ -1,8 +1,8 @@
 # IP Addressing
-<h1>Network Configuration Home Lab</h1>
+<h1>Network Configuration Project</h1>
 
 <h2>Description</h2>
-In this lab, I covered IP addressing across network using Cisco packet tracer
+In this project, I covered IP addressing across network
 <br />
 
 
