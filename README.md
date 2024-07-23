@@ -2,7 +2,7 @@
 <h1>Network Configuration Project</h1>
 
 <h2>Description</h2>
-In this project, I covered IP addressing across network
+In this project, I covered IP addressing over networks
 <br />
 
 
